@@ -1,0 +1,9 @@
+NexoKit — Tu espacio de herramientas digitales
+
+Abre index.html en el navegador. Mantén todos los archivos HTML en la misma carpeta para conservar los enlaces entre herramientas.
+
+Incluye 12 herramientas activas y 2 archivadas en descartados.html. Las archivadas probablemente no recibirán actualizaciones futuras.
+
+Algunas funciones de PDF Toolkit y QR Reader requieren Internet para cargar bibliotecas externas; la cámara y el portapapeles pueden depender de los permisos del navegador.
+
+Consulta README.md para conocer todas las herramientas y sus características.
